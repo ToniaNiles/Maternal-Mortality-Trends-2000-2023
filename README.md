@@ -7,7 +7,7 @@ Over the past two decades, the world has made undeniable progress in reducing ma
 
 This repository analyzes **global, regional, and country-level maternal mortality trends from 2000 to 2023**, using **WHO data released in April 2025**, to understand:
 
-- Where progress has occurred — and where it has stalled
+- Where progress has occurred, and where it has stalled
 - How absolute burden and relative improvement tell different stories
 - Whether current trajectories are sufficient to meet the **SDG 2030 target** of fewer than **70 maternal deaths per 100,000 live births**
 
