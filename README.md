@@ -1,4 +1,4 @@
-# Maternal Mortality: Progress, Plateaus, and Who Is Being Left Behind (2000–2023)
+# Maternal Mortality: Progress, Plateaus, and Who Is Being Left Behind (2000-2023)
 
 ## Overview
 
@@ -19,7 +19,7 @@ Rather than relying on single-year snapshots, this work examines **long-term tre
 
 - **World Health Organization (WHO)**
 - Maternal Mortality Estimates, published **April 2025**
-- Coverage: **2000–2023**
+- Coverage: **2000-2023**
 - Metric: Maternal Mortality Ratio (MMR), deaths per 100,000 live births
 
 > Regional groupings follow **WHO classifications**, which differ from geographic continents  
@@ -32,8 +32,8 @@ Rather than relying on single-year snapshots, this work examines **long-term tre
 ### Trend Analysis
 - Computed global, regional, and country-level average MMR by year
 - Examined trends across:
-  - MDG era (2000–2015)
-  - SDG era (2016–2023)
+  - MDG era (2000-2015)
+  - SDG era (2016-2023)
 
 ### Measuring Progress
 Two complementary lenses were used:
@@ -121,7 +121,7 @@ It is a failure of **systems, governance, and sustained commitment**.
 
 This analysis is shared through:
 - A **3-part LinkedIn series** (global → regional → country insights)
-- Public-facing visualizations
+- Public-facing visualisations
 - Policy-relevant framing aligned with SDG 2030 discussions
 
 ---
